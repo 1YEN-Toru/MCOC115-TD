@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EG_PHY_ADCConfig>
+    <GeneralConfig>
+        <Type>EG_PHY_ADC</Type>
+        <Device>EG4S20BG256</Device>
+        <create_VHDL>false</create_VHDL>
+        <inst>adc_afe</inst>
+    </GeneralConfig>
+    <ChannelOption>
+        <CH3>checked</CH3>
+        <CH2>checked</CH2>
+        <CH1>checked</CH1>
+        <CH0>checked</CH0>
+    </ChannelOption>
+</EG_PHY_ADCConfig>

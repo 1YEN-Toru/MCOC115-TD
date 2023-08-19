@@ -1,0 +1,36 @@
+set_pin_assignment	{ clk }	{ LOCATION = K14; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ reset_n }	{ LOCATION = K16; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ bootr_n }	{ LOCATION = J13; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ uart_rxd }	{ LOCATION = R7; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ uart_txd }	{ LOCATION = T7; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ intc_int0 }	{ LOCATION = P12; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ intc_int1 }	{ LOCATION = N12; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ tim0_pwma }	{ LOCATION = E16; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ tim0_pwmb }	{ LOCATION = F16; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ tim1_pwma }	{ LOCATION = J11; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ tim1_pwmb }	{ LOCATION = L12; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ stws_scl }	{ LOCATION = P2; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ stws_sda }	{ LOCATION = R2; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ uar1_cts }	{ LOCATION = M12; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ uar1_rts }	{ LOCATION = R16; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ uar1_rxd }	{ LOCATION = P5; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ uar1_txd }	{ LOCATION = N5; IOSTANDARD = LVCMOS33; }
+
+set_pin_assignment	{ port_iop[0] }	{ LOCATION = J14; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ port_iop[1] }	{ LOCATION = R3; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ port_iop[2] }	{ LOCATION = P13; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ port_iop[3] }	{ LOCATION = H13; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ port_iop[4] }	{ LOCATION = C9; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ port_iop[5] }	{ LOCATION = B10; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ port_iop[6] }	{ LOCATION = C16; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ port_iop[7] }	{ LOCATION = C15; IOSTANDARD = LVCMOS33; }
+
+set_pin_assignment	{ port_iop[8] }	{ LOCATION = A4; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ port_iop[9] }	{ LOCATION = A3; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ port_iop[10] }	{ LOCATION = C5; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ port_iop[11] }	{ LOCATION = B6; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ port_iop[12] }	{ LOCATION = B14; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ port_iop[13] }	{ LOCATION = A14; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ port_iop[14] }	{ LOCATION = B15; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ port_iop[15] }	{ LOCATION = B16; IOSTANDARD = LVCMOS33; }
+
