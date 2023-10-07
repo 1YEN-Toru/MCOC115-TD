@@ -5,7 +5,7 @@
 - Anlogic TD IDE project
 - Development on this FPGA board (**Primer**) has been **frozen**.
 	- Development is **progressing** on another FPGA board (**Cmod A7**).
-	<!-- - See [MCOC115-VD](https://github.com/1YEN-Toru/MCOC115-VD). -->
+	- See [MCOC115-VD](https://github.com/1YEN-Toru/MCOC115-VD) repository.
 - MCOC: Moscovium (Mc) On Chip
 	- 115 is the atomic number of Mc (Moscovium).
 	- 117 for Ts (Tennessine), 113 for Nh (Nihonium).
